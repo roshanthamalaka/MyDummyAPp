@@ -29,6 +29,6 @@ float result = number * 100;
     Console.WriteLine(result);
 
 
+// As a better approach Code will be pushed in to the
 
-
-
+Console.WriteLine("Now the Code in GitHub Organization");
