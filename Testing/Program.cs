@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Reflection.Emit;
 using System.Reflection.Metadata.Ecma335;
 
 int number;
@@ -37,3 +38,8 @@ float result = number * 100;
 // As a better approach Code will be pushed in to the
 
 Console.WriteLine("Now the Code in GitHub Organization");
+
+Console.WriteLine("Enter Mona Huttak : ");
+string puka = Console.ReadLine();
+
+Console.WriteLine(puka);
