@@ -4,8 +4,14 @@
 # https://aka.ms/yaml
 
 trigger:
-- master
+- main 
 
 pool:
   vmImage: windows-latest
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+
+
 
