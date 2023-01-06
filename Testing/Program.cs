@@ -45,6 +45,6 @@ string puka = Console.ReadLine();
 
 Console.WriteLine(puka);
 
-// Remove The Syntax Error 
+// Addi The Syntax Error 
 
 //Adding Comment to See working
