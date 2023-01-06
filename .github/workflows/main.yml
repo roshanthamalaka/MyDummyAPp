@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/RTCorporation/DevOpsExpert
             azure-pipeline-name: 'ConsoleApplicationBuildPipeline'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN}}
+            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
